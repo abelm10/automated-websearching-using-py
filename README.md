@@ -5,8 +5,9 @@ How It Works
 The script contains a list called search_items.
 Each item in the list will be searched on Google in your default browser.
 Thre is a 5-second pause before moving to the next search.
-<img width="645" height="140" alt="image" src="https://github.com/user-attachments/assets/d7f45b70-5c88-4aba-94d7-e5f897696eb6" /><br>
-
+<br>
+<img width="645" height="140" alt="image" src="https://github.com/user-attachments/assets/d7f45b70-5c88-4aba-94d7-e5f897696eb6" />
+</br>
 You can edit the search terms directly in the list.
 Running the Script
 
